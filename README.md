@@ -1,4 +1,3 @@
-# CS-1.0_MW_Custom_Calculator
  # Water Calculator
  ## Description
 
@@ -11,5 +10,5 @@
 weight = int(input("How much do you weigh in pounds? "))                            #Enter your weight in pounds
 exercise_time = int(input("What's your average for minutes of daily exercise? "))   #Enter your average minutes of daily exercise
 ```
-
- Programming Language: Python 3.7.9
+### Language
+ Python 3.7.9
